@@ -1,1 +1,2 @@
 # projeto-origamid-wildbeast
+## O projeto Wildbeast foi feito através das aulas administradas da Origamid no qual colocamos em prática as estruturas, bem como as sintaxes, de HTML5 e CSS3 utilizando-se do GRID para montar um layout que fosse adequado tanto para desktop quanto para mobile. Ou seja, ele é totalmente responsivo em diversas telas e também conta com animações e estilizações que chamam a atenção do usuário, especialmente no mobile. 
